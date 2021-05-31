@@ -1,13 +1,3 @@
-/*
- https://academy.yandex.ru/posts/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii
-
- Заполнить массив a рандомайзером на 100000 элементов.
- Реализовать 2 вида сортировки массива:
- - пузырьком;
- - одну из эффективных сортировок.
- Замерить время с помощью https://developer.mozilla.org/en-US/docs/Web/API/Performance/now. 
-*/
-
 // Import stylesheets
 import './style.css';
 
